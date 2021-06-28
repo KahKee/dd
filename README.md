@@ -35,6 +35,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/mast
 --mirror 'http://debian.cabletel.com.mk/debian/'
 --mirror 'http://komo.padinet.com/debian/'
 --mirror 'http://www.debian.uz/debian/'
+
 ```
 安装debian8 示例:
 ```
@@ -134,6 +135,9 @@ bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
 # win8.1emb_x64.tar.gz:
   https://image.moeclub.org/GoogleDrive/1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J
   https://image.moeclub.org/win8.1emb_x64.tar.gz
+  
+# CentOS6  
+  --mirror 'http://mirrors.aliyun.com/centos-vault/'
 ```
 
 ## 一些提示:
